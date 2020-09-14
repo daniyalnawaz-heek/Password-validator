@@ -25,7 +25,7 @@ if l==0 or u==0 or d==0 or s==0 :
 
 #if valid
   print("password invalid")
-  #if not valid
+#if not valid
 else:
   print("password valid")
 
